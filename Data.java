@@ -7,7 +7,7 @@ public class Data {                             //Name of the class is the name 
         }
         DataOnly data = new DataOnly();        // Creating a new object with class "DataOnly"
         data.i = 56;                            // Initailzing those fields to a value
-        data.d = 75.234;
+        data.d = 75.235;
         data.b = true;
         
         System.out.println("Data's int value is: " + data.i);     // Outputting the results.
