@@ -13,7 +13,7 @@ public class Velocity {                                 // Public class same as 
         Vel.x = Displacement.x/changeInTime.x;          // Initialized according to the formula for velocity
         
         System.out.println("The Displacement of the object is: " + Displacement.x);     
-        System.out.println("The Change in Time is: " + changeInTime.x);                 // Outputting Results
+        System.out.println("The Change in Time is: " + changeInTime.x);                 // Outputting the Results
         System.out.println("The velocity of the object is: " + Vel.x);
     }
 }
