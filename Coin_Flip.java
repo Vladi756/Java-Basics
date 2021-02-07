@@ -4,7 +4,7 @@ public class Coin_Flip {
             System.out.println("Tails");        // Heads is assigned to anything > 0.5
         }
         else {
-            System.out.println("Heads");        // < 0.5 is Tails
+            System.out.println("Heads");        // Anything < 0.5 is Tails
         }
     }
 }
