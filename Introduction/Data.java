@@ -1,5 +1,5 @@
 public class Data {                             // Name of the class is the name of the file.
-    public static void main(String[] args){     // Main function    
+    public static void main(String[] args){     // Main function.    
         class DataOnly {                        // Creating a class with fields.
             int i;
             double d;
