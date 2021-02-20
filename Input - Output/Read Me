@@ -1,0 +1,2 @@
+#Read Me 
+This file shows a program with basic user input capablities. It is a hot dog vendor which asks the user how many hot dogs they would like to buy, and then it can charge them accordingly, and it even gives change. It even lets the user know that the Hot Dog vendor does not deal with con men (should the user try to pay less than is required).
